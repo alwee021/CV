@@ -79,7 +79,7 @@ Times New Roman
 1 0 150 40 0 300 1
 
 [LEGEND]
-2
+4
 8
 10500 1100 0 1 0
 1000ppm
@@ -98,6 +98,26 @@ Times New Roman TUR
 -1600 0 0 0 400 0 0 0 162 3 2 1 18
 Times New Roman TUR
 -1600 0 0 0 400 0 0 0 2 3 2 1 18
+Symbol
+
+4
+4900 11400 0 1 0
+Time /min
+-2200 0 0 0 400 0 0 0 162 3 2 1 18
+Times New Roman TUR
+-2200 0 0 0 400 0 0 0 162 3 2 1 18
+Times New Roman TUR
+-2200 0 0 0 400 0 0 0 2 3 2 1 18
+Symbol
+
+5
+-1900 7500 0 1 0
+Absorption /a.u.
+-2200 0 -900 900 400 0 0 0 162 3 2 1 18
+Times New Roman TUR
+-2200 0 -900 900 400 0 0 0 162 3 2 1 18
+Times New Roman TUR
+-2200 0 -900 900 400 0 0 0 2 3 2 1 18
 Symbol
 
 [OTHERS]
